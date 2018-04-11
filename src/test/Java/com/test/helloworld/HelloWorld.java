@@ -14,5 +14,6 @@ public class HelloWorld{
 		System.out.println("10004");
 		System.out.println("10005");
 		System.out.println("100099");
+		System.out.println("100088");
 	}
 }
