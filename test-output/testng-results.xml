@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2018-04-10T11:27:15Z" finished-at="2018-04-10T11:27:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2018-04-10T11:27:15Z" finished-at="2018-04-10T11:27:15Z">
+      <class name="com.test.helloworld.HelloWorld">
+        <test-method status="PASS" signature="hellowWorldFn()[pri:0, instance:com.test.helloworld.HelloWorld@23ceabc1]" name="hellowWorldFn" duration-ms="17" started-at="2018-04-10T16:57:15Z" finished-at="2018-04-10T16:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hellowWorldFn -->
+      </class> <!-- com.test.helloworld.HelloWorld -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
